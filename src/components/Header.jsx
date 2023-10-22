@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const HeaderElement = styled.header`
-  background-image: url('/public/img/header_bg.png');
+  background-image: url('/img/header_bg.png');
   height: 190px;
   background-repeat: no-repeat;
 `
@@ -47,28 +47,28 @@ const Header = () => {
           <div className="flex items-center">
             <nav className={nav}>
               <a className={a} href="#">
-                <IconImage className="relative z-20" src="/src/assets/icon_menu.png" alt="icono menu"/>
-                <HeaderMenu className={headerMenu} src="/src/assets/header_menu.png" alt="icono menu"/>
+                <IconImage className="relative z-20" src="/public/img/icon_menu.png" alt="icono menu"/>
+                <HeaderMenu className={headerMenu} src="/img/header_menu.png" alt="icono menu"/>
                 <Titulo className={titulo}>Continents</Titulo>
               </a>
 
               <a className={a} href="#">
-                <IconImage className="relative z-20" src="/src/assets/icon_menu2.png" alt="icono menu"/>
-                <HeaderMenu className={headerMenu} src="/src/assets/header_menu.png" alt="icono menu"/>
+                <IconImage className="relative z-20" src="/img/icon_menu2.png" alt="icono menu"/>
+                <HeaderMenu className={headerMenu} src="/img/header_menu.png" alt="icono menu"/>
                 <Titulo className={titulo}>Inventory</Titulo>
               </a>
             </nav>
 
             <nav className={nav}>
               <a className={a} href="#">
-                <IconImage className="relative z-20" src="/src/assets/icon_menu2.png" alt="icono menu"/>
-                <HeaderMenu className={headerMenu} src="/src/assets/header_menu.png" alt="icono menu"/>
+                <IconImage className="relative z-20" src="/img/icon_menu2.png" alt="icono menu"/>
+                <HeaderMenu className={headerMenu} src="/img/header_menu.png" alt="icono menu"/>
                 <Titulo className={titulo}>Market</Titulo>
               </a>
 
               <a className={a} href="#">
-                <IconImage className="relative z-20" src="/src/assets/icon_menu2.png" alt="icono menu"/>
-                <HeaderMenu className={headerMenu} src="/src/assets/header_menu.png" alt="icono menu"/>
+                <IconImage className="relative z-20" src="/img/icon_menu2.png" alt="icono menu"/>
+                <HeaderMenu className={headerMenu} src="/img/header_menu.png" alt="icono menu"/>
                 <Titulo className={titulo}>Exchange</Titulo>
               </a>
             </nav>
@@ -76,11 +76,11 @@ const Header = () => {
 
           <nav className="flex flex-col md:flex-row">
             <a href="#">
-              <IconImage className="relative z-20" src="/src/assets/icon_menu.png" alt="icono menu"/>
+              <IconImage className="relative z-20" src="/img/icon_menu.png" alt="icono menu"/>
             </a>
 
             <a href="#">
-              <IconImage className="relative z-20" src="/src/assets/icon_menu2.png" alt="icono menu"/>
+              <IconImage className="relative z-20" src="/img/icon_menu2.png" alt="icono menu"/>
             </a>
           </nav>
         </div>

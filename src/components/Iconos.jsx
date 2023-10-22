@@ -38,18 +38,18 @@ const Iconos = () => {
     <section className='container mx-auto mt-3'>
         <div className='flex justify-between text-white'>
             <div className="flex gap-10">
-            <IconImage src="/public/img/back.png"/>
+            <IconImage src="/img/back.png"/>
             <div className="flex items-center justify-start relative">
-                <HeaderMenu className="relative z-10 max-w-none" src="/public/img/but1.png"/>
+                <HeaderMenu className="relative z-10 max-w-none" src="/img/but1.png"/>
                 <Titulo1 className="text-white text-2xl font-bold uppercase absolute z-30 tracking-tighter">GREENHOUS</Titulo1>
             </div>
             </div>
 
             <div>
               <button type="button" className="flex items-center justify-start relative">
-                  <HeaderMenu className="relative z-10 max-w-none" src="/public/img/but_options.png"/>
+                  <HeaderMenu className="relative z-10 max-w-none" src="/img/but_options.png"/>
                   <Titulo2 className="text-white text-2xl font-bold uppercase absolute z-30 tracking-tighter">TYPE</Titulo2>
-                  <HeaderMenu className="relative z-30 max-w-none right-8 lg:right-12" src="/public/img/icon_options.png"/>
+                  <HeaderMenu className="relative z-30 max-w-none right-8 lg:right-12" src="/img/icon_options.png"/>
               </button>
             </div>
         </div>

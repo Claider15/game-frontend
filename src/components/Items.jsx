@@ -74,240 +74,240 @@ const Items = () => {
       <GardenBorder className="shadow p-3 grid gap-4 grid-cols-2">
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden01.jpg" />  
+                <GardenImg src="/img/garden01.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden02.jpg" />  
+                <GardenImg src="/img/garden02.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden04.jpg" />  
+                <GardenImg src="/img/garden04.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden01.jpg" />  
+                <GardenImg src="/img/garden01.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden02.jpg" />  
+                <GardenImg src="/img/garden02.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden04.jpg" />  
+                <GardenImg src="/img/garden04.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden01.jpg" />  
+                <GardenImg src="/img/garden01.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden02.jpg" />  
+                <GardenImg src="/img/garden02.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden04.jpg" />  
+                <GardenImg src="/img/garden04.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden01.jpg" />  
+                <GardenImg src="/img/garden01.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden02.jpg" />  
+                <GardenImg src="/img/garden02.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden04.jpg" />  
+                <GardenImg src="/img/garden04.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
 
         <ImgContainer className={imgContainer}>
             <div className="relative">
-                <GardenImg src="/src/assets/garden05.jpg" />  
+                <GardenImg src="/img/garden05.jpg" />  
                 <Circulo className={circulo}/>
             </div>
 
             <div className="mt-4 relative">
-                <EnterContainer src="/src/assets/card_button.png" />
+                <EnterContainer src="/img/card_button.png" />
                 <Titulo className={titulo}>Enter</Titulo>
             </div>
         </ImgContainer>
