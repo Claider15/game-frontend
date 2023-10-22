@@ -30,11 +30,11 @@ const Puntuacion = () => {
   return (
     <>
       <Contenedor className="flex items-center">
-        <Imagen1 className="relative z-20" src="/src/assets/user_bee.png"/>
+        <Imagen1 className="relative z-20" src="/img/user_bee.png"/> {/* root ya en public */}
         <Contenido className="rounded-lg p-2 relative z-10">
             <Texto1>DrBeebeep</Texto1>
             <div className="flex items-center">
-                <Imagen2 src="/src/assets/hony.png"/>
+                <Imagen2 src="/img/hony.png"/>
                 <Texto2>999,999</Texto2>
             </div>
         </Contenido>
