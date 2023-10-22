@@ -47,7 +47,7 @@ const Header = () => {
           <div className="flex items-center">
             <nav className={nav}>
               <a className={a} href="#">
-                <IconImage className="relative z-20" src="/public/img/icon_menu.png" alt="icono menu"/>
+                <IconImage className="relative z-20" src="/img/icon_menu.png" alt="icono menu"/> {/* root en public */}
                 <HeaderMenu className={headerMenu} src="/img/header_menu.png" alt="icono menu"/>
                 <Titulo className={titulo}>Continents</Titulo>
               </a>
